@@ -1,4 +1,4 @@
-# volatile
+# Volatile
 
 Volatile, a free key-value pair API
 
